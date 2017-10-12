@@ -1,0 +1,1 @@
+# MobileFoundation-Cloudant-IonicMobileApp-AngularWebApp
