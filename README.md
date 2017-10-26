@@ -1,6 +1,6 @@
 **Note**: This is a work in progress.
 
-# MobileFoundation-Cloudant-IonicMobileApp-AngularWebApp
+# Creating Mobile Charts for showing aggregate statistics from Cloudant Map Reduce Views
 
 <img src="doc/source/images/Architecture.png" alt="Architecture diagram" width="640" border="10" />
 
